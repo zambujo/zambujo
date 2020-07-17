@@ -1,4 +1,4 @@
-### 👋 Ciao, I'm [Joao](https://en.wikipedia.org/wiki/Jo%C3%A3o)
+### 👋 I'm [Joao](https://en.wikipedia.org/wiki/Jo%C3%A3o)
 
 **Most Important Stuff**
 
