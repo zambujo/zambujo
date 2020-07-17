@@ -3,10 +3,10 @@
 **Out and About**
 
 - 🔭 Working at the [European Research Council](https://erc.europa.eu)
-- 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
-- 😄 Pronouns: `ele/o gajo` (Portuguese speakers only)
 - ⚡ Trivia: `zambujo` - most distinctive name of my full name
-- 🌱 Learning `German`
+- 🌱 Learning: `German`
+- 😄 Pronouns: `ele/o gajo` (Portuguese speakers only)
+- 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
 
 **Previous Work**
 
