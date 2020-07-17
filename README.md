@@ -4,9 +4,9 @@
 
 - 🔭 Work: [SNSF](http://www.snf.ch) (currently seconded at the [ERC](https://erc.europa.eu))
 - ⚡ Trivia: `zambujo` - most distinctive name of my full name
+- 💬 Ask me about `.txt`, `.r`, `.rmd`, `.py`, `.sql`
 - 🌱 Learning: `German` and `cooking`
 - 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
-- 💬 Ask me about `.txt`, `.r`, `.rmd`, `.py`, `.sql`, `.sqlite`
 
 **Other Stuff**
 
