@@ -1,16 +1,15 @@
 ### 👋 Ciao, I'm [Joao](https://en.wikipedia.org/wiki/Jo%C3%A3o)
 
-**Out and About**
+**Most Important Stuff**
 
-- 🔭 Working at the [European Research Council](https://erc.europa.eu)
+- 🔭 Work: [SNSF](http://www.snf.ch) (currently seconded at the [ERC](https://erc.europa.eu))
 - ⚡ Trivia: `zambujo` - most distinctive name of my full name
-- 🌱 Learning: `German`
-- 😄 Pronouns: `ele/o gajo` (Portuguese speakers only)
+- 🌱 Learning: `German` and `cooking`
 - 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
 
-**Previous Work**
+**Other Stuff**
 
-- Helped launching [sciencematters.io](https://github.com/SciMts)
-- Co-created [sciencegeist.com](https://www.sciencegeist.com)
+- Worked on [sciencematters.io](https://github.com/SciMts) with [@JonnyBurger](https://github.com/JonnyBurger), [@brecke](https://github.com/brecke), and [@laginha](https://github.com/laginha)
+- Created [sciencegeist.com](https://www.sciencegeist.com) with [@MirkoBischBerg](https://twitter.com/MirkoBischBerg)
 
 ![zambujo's github stats](https://github-readme-stats.vercel.app/api?username=zambujo&show_icons=true&hide_border=true)
