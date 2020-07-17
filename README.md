@@ -3,10 +3,10 @@
 **Out'n About**
 
 - 🔭 Currently working for the [European Research Council](https://erc.europa.eu)
-- 🌱 Currently learning `German`
+- 🌱 Learning `German`
 - 📫 How to reach me: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
 - 😄 Pronouns: `ele/o gajo` (Portuguese speakers only)
-- ⚡ Fun fact: `zambujo` is the most distinctive name of my full name.
+- ⚡ Trivia: `zambujo` is the most distinctive name of my full name.
 
 - Helped developing [sciencematters.io](https://github.com/SciMts)
 - Co-created [sciencegeist.com](https://www.sciencegeist.com)
