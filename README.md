@@ -2,7 +2,7 @@
 
 **Most Important Stuff**
 
-- 🔭 Work: [SNSF](http://www.snf.ch) (currently seconded at the [ERC](https://erc.europa.eu))
+- 🔭 Work: [SNSF](http://www.snf.ch), seconded at the [ERC](https://erc.europa.eu)
 - ⚡ Trivia: `zambujo` - most distinctive name of my full name
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `German` and `cooking`
