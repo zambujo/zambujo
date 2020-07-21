@@ -3,7 +3,7 @@
 **Most Important Stuff**
 
 - 🔭 Work: [SNSF](http://www.snf.ch), seconded at the [ERC](https://erc.europa.eu)
-- ⚡ Trivia: `zambujo` - most distinctive name of my full name
+- ⚡ Trivia: `zambujo` is one of the names of my full name
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `German` and `cooking`
 - 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
