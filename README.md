@@ -13,4 +13,4 @@
 - Created [sciencegeist.com](https://www.sciencegeist.com) with [@MirkoBischBerg](https://twitter.com/MirkoBischBerg)
 - Built [sciencematters.io](https://github.com/SciMts) with [@JonnyBurger](https://github.com/JonnyBurger), [@brecke](https://github.com/brecke), [@laginha](https://github.com/laginha), [@MirkoBischBerg](https://twitter.com/MirkoBischBerg), and [@lawrie_science](https://twitter.com/lawrie_science)
 
-![zambujo's github stats](https://github-readme-stats.vercel.app/api?username=zambujo&show_icons=true&hide_border=true&hide=prs) ![zambujo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambujo&layout=compact?hide=html)
+![zambujo's github stats](https://github-readme-stats.vercel.app/api?username=zambujo&show_icons=true&hide_border=true&hide=prs) ![zambujo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zambujo&hide=javascript,html&layout=compact)
