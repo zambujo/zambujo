@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🔭 Work: [SNSF](http://www.snf.ch), seconded at the [ERC](https://erc.europa.eu)
+- 🔭 Work: [SNSF](http://www.snf.ch), previously seconded at the [ERC](https://erc.europa.eu)
 - ⚡ Trivia: `zambujo` is one of my names
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `German` and `cooking`
