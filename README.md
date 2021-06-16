@@ -10,5 +10,5 @@
 
 **Other stuff**
 
-- Created [sciencegeist.com](https://www.sciencegeist.com) with [@MirkoBischBerg](https://twitter.com/MirkoBischBerg)
+- Created [sciencegeist.ch](https://www.sciencegeist.ch) with [@MirkoBischBerg](https://twitter.com/MirkoBischBerg)
 - Built [sciencematters.io](https://github.com/SciMts) with [@JonnyBurger](https://github.com/JonnyBurger), [@brecke](https://github.com/brecke), [@laginha](https://github.com/laginha), [@MirkoBischBerg](https://twitter.com/MirkoBischBerg), and [@lawrie_science](https://twitter.com/lawrie_science)
