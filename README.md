@@ -1,9 +1,9 @@
-### 👋 I'm [Joao](https://en.wikipedia.org/wiki/Jo%C3%A3o)
+### 👋 I'm João
 
 **About me**
 
-- 🔭 Work: previously at the [ERC](https://erc.europa.eu) and at the [SNSF](http://www.snf.ch)
-- ⚡ Trivia: `zambujo` is one of my names
+- 🔭 Work: [linkedin.com/in/whatdidido](https://www.linkedin.com/in/whatdidido/)
+- ⚡ Trivia: `zambujo` is part of my full name
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `de` and `ru` 
 - 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
