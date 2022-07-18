@@ -2,11 +2,11 @@
 
 **About me**
 
-- 🔭 Work: [linkedin.com/in/whatdidido](https://www.linkedin.com/in/whatdidido/)
+- 🔭 Work: [`linkedin.com/in/whatdidido`](https://www.linkedin.com/in/whatdidido/)
 - ⚡ Trivia: `zambujo` is part of my full name
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `de` and `ru` 
-- 📫 Email: [joao.martins@gmx.net](mailto:joao.martins@gmx.net)
+- 📫 Email: [`joao.martins@gmx.net`](mailto:joao.martins@gmx.net)
 
 **Other stuff**
 
