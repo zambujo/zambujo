@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🔭 Work: [`linkedin.com/in/whatdidido`](https://www.linkedin.com/in/whatdidido/)
+- 🔭 Work: [`linkedin.com/in/shortbio`](https://www.linkedin.com/in/shortbio/)
 - ⚡ Trivia: `zambujo` is part of my full name
 - 💬 Ask me about `.txt`, `.sh`, `.r`, `.py`, `.sql`
 - 🌱 Learning: `de` and `ru` 
